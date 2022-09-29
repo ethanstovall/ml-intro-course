@@ -1,0 +1,14 @@
+numpy==1.19.2
+matplotlib
+pandas
+openpyxl
+scikit-learn
+tensorflow
+jupyterlab
+sqlalchemy
+psycopg2
+gunicorn
+wget
+requests
+selenium
+scrapy
